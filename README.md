@@ -1,9 +1,9 @@
 # AutomaticTests
 
 ## Table of contents
-* [General info] (#general-info)
-* [Technologies] (#techhnologies)
-* [Websites] (#websites)
+* [General info](#general-info)
+* [Technologies](#techhnologies)
+* [Websites](#websites)
 
 ## General info
 This project is collection test cases write in Java language with framework Selenium WebDriver. Test Cases was create on base exploration tests on available websites
